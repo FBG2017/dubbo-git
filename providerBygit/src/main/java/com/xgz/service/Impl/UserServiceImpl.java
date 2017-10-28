@@ -5,7 +5,10 @@ import org.slf4j.LoggerFactory;
 import org.springframework.stereotype.Service;
 
 import com.xgz.service.IUserService;
-
+/*
+ * 
+ * create By FBG
+ */
 @Service("userService")
 public class UserServiceImpl implements IUserService {
 
